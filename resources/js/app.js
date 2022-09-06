@@ -3,7 +3,7 @@ require('./bootstrap');
 import * as vue from 'vue'
 window.Vue =  vue;
 
-
+//HOla//
 
 import VueSweetalert2 from "vue-sweetalert2";
 Vue.use(VueSweetalert2);

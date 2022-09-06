@@ -22735,7 +22735,8 @@ Object(function webpackMissingModule() { var e = new Error("Cannot find module '
 __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
 
-window.Vue = vue__WEBPACK_IMPORTED_MODULE_0__;
+window.Vue = vue__WEBPACK_IMPORTED_MODULE_0__; //HOla//
+
 
 vue__WEBPACK_IMPORTED_MODULE_0__["default"].use((vue_sweetalert2__WEBPACK_IMPORTED_MODULE_1___default()));
 
